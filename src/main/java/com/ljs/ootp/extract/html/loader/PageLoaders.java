@@ -1,4 +1,4 @@
-package com.ljs.ootp.extract.html;
+package com.ljs.ootp.extract.html.loader;
 
 import java.util.concurrent.Callable;
 import org.jsoup.nodes.Document;

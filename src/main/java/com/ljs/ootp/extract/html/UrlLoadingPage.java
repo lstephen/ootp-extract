@@ -1,5 +1,6 @@
 package com.ljs.ootp.extract.html;
 
+import com.ljs.ootp.extract.html.loader.PageLoader;
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import org.jsoup.nodes.Document;
 

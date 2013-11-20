@@ -1,4 +1,4 @@
-package com.ljs.ootp.extract.html;
+package com.ljs.ootp.extract.html.loader;
 
 import com.google.common.base.Charsets;
 import com.google.common.base.Throwables;
@@ -19,19 +19,20 @@ import org.jsoup.nodes.Document;
  */
 public final class DiskCachingLoader implements PageLoader {
 
-    private static final String CACHE_DIR = "c:/ootp/cache";
+    public static final String DEFAULT_CACHE_DIR = "c:/ootp/cache";
 
-    private static final DiskCache CACHE = DiskCache.cachingTo(CACHE_DIR);
+    private static DiskCache cache;
 
     private final PageLoader wrapped;
 
-    private DiskCachingLoader(PageLoader wrapped) {
+    private DiskCachingLoader(String dir, PageLoader wrapped) {
+        cache = DiskCache.cachingTo(dir);
         this.wrapped = wrapped;
     }
 
     @Override
     public Document load(String url) {
-        return CACHE.get(url, PageLoaders.asCallable(wrapped, url));
+        return cache.get(url, PageLoaders.asCallable(wrapped, url));
     }
 
     private static final class DiskCache
@@ -117,7 +118,11 @@ public final class DiskCachingLoader implements PageLoader {
     }
 
     public static DiskCachingLoader wrap(PageLoader loader) {
-        return new DiskCachingLoader(loader);
+        return create(DEFAULT_CACHE_DIR, loader);
+    }
+
+    public static DiskCachingLoader create(String dir, PageLoader loader) {
+        return new DiskCachingLoader(dir, loader);
     }
 
 }

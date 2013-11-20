@@ -1,5 +1,6 @@
-package com.ljs.ootp.extract.html;
+package com.ljs.ootp.extract.html.loader;
 
+import com.ljs.ootp.extract.html.Documents;
 import org.jsoup.nodes.Document;
 
 /**

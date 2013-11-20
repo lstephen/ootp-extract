@@ -1,20 +1,37 @@
 package com.ljs.ootp.extract.html;
 
+import com.ljs.ootp.extract.html.loader.JsoupLoader;
+import com.ljs.ootp.extract.html.loader.DiskCachingLoader;
+import com.ljs.ootp.extract.html.loader.PageLoader;
+import com.ljs.ootp.extract.html.loader.InMemoryCachedLoader;
+
 /**
  *
  * @author lstephen
  */
 public final class PageFactory {
 
-    private static final PageLoader PAGE_LOADER =
+    private static final PageLoader DEFAULT_PAGE_LOADER =
         InMemoryCachedLoader.wrap(
             DiskCachingLoader.wrap(
                 new JsoupLoader()));
 
-    private PageFactory() { }
+    private final PageLoader loader;
 
-    public static Page create(String root, String page) {
-        return UrlLoadingPage.using(PAGE_LOADER).loading(root + page);
+    private PageFactory(PageLoader loader) {
+        this.loader = loader;
+    }
+
+    public Page getPage(String root, String page) {
+        return UrlLoadingPage.using(loader).loading(root + page);
+    }
+
+    public static PageFactory create() {
+        return create(DEFAULT_PAGE_LOADER);
+    }
+
+    public static PageFactory create(PageLoader loader) {
+        return new PageFactory(loader);
     }
 
 }

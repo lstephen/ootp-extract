@@ -23,6 +23,8 @@ import org.jsoup.nodes.Document;
  */
 public final class Documents {
 
+    private static final Integer NUMBER_OF_RETRIES = 3;
+
     private static final Logger LOGGER =
         Logger.getLogger(Documents.class.getName());
 
@@ -34,7 +36,7 @@ public final class Documents {
         Retryer<Document> retryer = RetryerBuilder
             .<Document>newBuilder()
             .retryIfException()
-            .withStopStrategy(StopStrategies.stopAfterAttempt(3))
+            .withStopStrategy(StopStrategies.stopAfterAttempt(NUMBER_OF_RETRIES))
             .withWaitStrategy(WaitStrategies.exponentialWait())
             .build();
 

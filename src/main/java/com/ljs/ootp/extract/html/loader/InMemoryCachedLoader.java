@@ -1,4 +1,4 @@
-package com.ljs.ootp.extract.html;
+package com.ljs.ootp.extract.html.loader;
 
 import com.google.common.base.Throwables;
 import com.google.common.cache.CacheBuilder;
