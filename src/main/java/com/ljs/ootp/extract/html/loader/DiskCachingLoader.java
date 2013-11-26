@@ -21,7 +21,7 @@ public final class DiskCachingLoader implements PageLoader {
 
     public static final String DEFAULT_CACHE_DIR = "c:/ootp/cache";
 
-    private static DiskCache cache;
+    private final DiskCache cache;
 
     private final PageLoader wrapped;
 
