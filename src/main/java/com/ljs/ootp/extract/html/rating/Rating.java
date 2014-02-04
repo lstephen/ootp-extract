@@ -2,6 +2,7 @@ package com.ljs.ootp.extract.html.rating;
 
 import com.fasterxml.jackson.annotation.JsonValue;
 import com.google.common.base.Objects;
+import com.google.common.base.Preconditions;
 import com.google.common.base.Throwables;
 
 /**
@@ -15,6 +16,9 @@ public final class Rating<T, S extends Scale<T>> {
     private final S scale;
 
     private Rating(T value, S scale) {
+        Preconditions.checkNotNull(value);
+        Preconditions.checkNotNull(scale);
+
         // Seems that occaisionally a String gets through here.
         // This fix hides a problem somewhere else.
         // The error occurs when loading from JSON
