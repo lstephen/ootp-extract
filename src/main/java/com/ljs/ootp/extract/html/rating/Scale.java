@@ -7,6 +7,7 @@ import com.ljs.ootp.extract.html.ootp5.rating.PotentialRating;
 import com.ljs.ootp.extract.html.ootp5.rating.ZeroToTen;
 import com.ljs.ootp.extract.html.ootp6.rating.OneToTen;
 import com.ljs.ootp.extract.html.ootp6.rating.OneToTwenty;
+import com.ljs.ootp.extract.html.ootp6.rating.TwoToEight;
 
 /**
  *
@@ -18,7 +19,8 @@ import com.ljs.ootp.extract.html.ootp6.rating.OneToTwenty;
     @Type(OneToTen.class),
     @Type(PotentialRating.RatingScale.class),
     @Type(OneToOneHundred.class),
-    @Type(OneToTwenty.class)
+    @Type(OneToTwenty.class),
+    @Type(TwoToEight.class)
 })
 public interface Scale<T> {
 

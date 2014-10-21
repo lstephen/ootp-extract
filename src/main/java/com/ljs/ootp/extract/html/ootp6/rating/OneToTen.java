@@ -1,6 +1,7 @@
 package com.ljs.ootp.extract.html.ootp6.rating;
 
 import com.ljs.ootp.extract.html.rating.IntegerScale;
+import com.ljs.ootp.extract.html.rating.Rating;
 
 /**
  *
@@ -21,6 +22,10 @@ public final class OneToTen extends IntegerScale {
 
     public static OneToTen scale() {
         return INSTANCE;
+    }
+
+    public static Rating<Integer, OneToTen> valueOf(Integer value) {
+        return Rating.create(value, INSTANCE);
     }
 
 }
