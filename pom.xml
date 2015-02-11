@@ -156,7 +156,7 @@
         <version>0.10</version>
         <configuration>
           <message>Creating site for ${project.version}</message>
-          <repositoryName>ai-search</repositoryName>
+          <repositoryName>ootp-extract</repositoryName>
           <repositoryOwner>lstephen</repositoryOwner>
         </configuration>
         <executions>
