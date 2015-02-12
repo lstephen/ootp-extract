@@ -55,21 +55,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp5.rating.ZeroToTen.java">com/ljs/ootp/extract/html/ootp5/rating/ZeroToTen.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
+                  9
                 </td>
               </tr>
                           <tr>
@@ -84,6 +70,20 @@ under the License.
                 </td>
                 <td>
                   1
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp5.rating.ZeroToTen.java">com/ljs/ootp/extract/html/ootp5/rating/ZeroToTen.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
                 </td>
               </tr>
                           <tr>
@@ -125,7 +125,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  5
                 </td>
               </tr>
                           <tr>
@@ -172,6 +172,20 @@ under the License.
               </tr>
                           <tr>
                 <td>
+                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.OneToOneHundred.java">com/ljs/ootp/extract/html/rating/OneToOneHundred.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
                   <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.JsoupLoader.java">com/ljs/ootp/extract/html/loader/JsoupLoader.java</a>
                 </td>
                 <td>
@@ -186,20 +200,6 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.OneToOneHundred.java">com/ljs/ootp/extract/html/rating/OneToOneHundred.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  7
-                </td>
-              </tr>
-                          <tr>
-                <td>
                   <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp5.rating.PotentialRating.java">com/ljs/ootp/extract/html/ootp5/rating/PotentialRating.java</a>
                 </td>
                 <td>
@@ -209,7 +209,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  21
+                  20
                 </td>
               </tr>
                           <tr>
@@ -237,7 +237,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  16
+                  17
                 </td>
               </tr>
                           <tr>
@@ -265,7 +265,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  6
                 </td>
               </tr>
                           <tr>
@@ -307,7 +307,7 @@ under the License.
                   0
                 </td>
                 <td>
-                  11
+                  12
                 </td>
               </tr>
                           <tr>
