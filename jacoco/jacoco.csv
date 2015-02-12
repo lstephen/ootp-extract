@@ -3,8 +3,8 @@ ootp-extract,com.ljs.ootp.extract.html.ootp6.rating,TwoToEight,23,0,0,0,5,0,4,0,
 ootp-extract,com.ljs.ootp.extract.html.ootp6.rating,OneToTwenty,16,0,0,0,5,0,4,0,4,0
 ootp-extract,com.ljs.ootp.extract.html.ootp6.rating,OneToTen,22,0,0,0,6,0,5,0,5,0
 ootp-extract,com.ljs.ootp.extract.html.loader,InMemoryCachedLoader.new CacheLoader() {...},14,0,0,0,2,0,2,0,2,0
-ootp-extract,com.ljs.ootp.extract.html.loader,PageLoaders.new Callable() {...},15,0,0,0,2,0,2,0,2,0
 ootp-extract,com.ljs.ootp.extract.html.loader,InMemoryCachedLoader,38,0,0,0,12,0,4,0,4,0
+ootp-extract,com.ljs.ootp.extract.html.loader,PageLoaders.new Callable() {...},15,0,0,0,2,0,2,0,2,0
 ootp-extract,com.ljs.ootp.extract.html.loader,DiskCachingLoader.DiskCache,105,0,4,0,36,0,9,0,7,0
 ootp-extract,com.ljs.ootp.extract.html.loader,PageLoaders,9,0,0,0,2,0,2,0,2,0
 ootp-extract,com.ljs.ootp.extract.html.loader,DiskCachingLoader,29,0,0,0,7,0,4,0,4,0
@@ -20,6 +20,6 @@ ootp-extract,com.ljs.ootp.extract.html,Documents,38,0,0,0,13,0,3,0,3,0
 ootp-extract,com.ljs.ootp.extract.html,PageFactory,34,0,0,0,9,0,5,0,5,0
 ootp-extract,com.ljs.ootp.extract.html,UrlLoadingPage.new UrlLoadingPage.Loading() {...},14,0,0,0,2,0,2,0,2,0
 ootp-extract,com.ljs.ootp.extract.html,Pages,8,0,0,0,2,0,2,0,2,0
-ootp-extract,com.ljs.ootp.extract.html.rating,OneToOneHundred,16,0,0,0,6,0,5,0,5,0
 ootp-extract,com.ljs.ootp.extract.html.rating,IntegerScale,14,0,0,0,3,0,3,0,3,0
+ootp-extract,com.ljs.ootp.extract.html.rating,OneToOneHundred,16,0,0,0,6,0,5,0,5,0
 ootp-extract,com.ljs.ootp.extract.html.rating,Rating,123,0,12,0,28,0,13,0,7,0
