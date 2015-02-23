@@ -20,6 +20,6 @@ ootp-extract,com.ljs.ootp.extract.html,Documents,38,0,0,0,13,0,3,0,3,0
 ootp-extract,com.ljs.ootp.extract.html,PageFactory,34,0,0,0,9,0,5,0,5,0
 ootp-extract,com.ljs.ootp.extract.html,UrlLoadingPage.new UrlLoadingPage.Loading() {...},14,0,0,0,2,0,2,0,2,0
 ootp-extract,com.ljs.ootp.extract.html,Pages,8,0,0,0,2,0,2,0,2,0
-ootp-extract,com.ljs.ootp.extract.html.rating,OneToOneHundred,16,0,0,0,6,0,5,0,5,0
 ootp-extract,com.ljs.ootp.extract.html.rating,IntegerScale,14,0,0,0,3,0,3,0,3,0
+ootp-extract,com.ljs.ootp.extract.html.rating,OneToOneHundred,16,0,0,0,6,0,5,0,5,0
 ootp-extract,com.ljs.ootp.extract.html.rating,Rating,123,0,12,0,28,0,13,0,7,0
