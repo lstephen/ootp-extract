@@ -18,7 +18,7 @@
   <scm>
     <connection>scm:git:git@github.com:lstpehen/ootp-extract.git</connection>
     <developerConnection>scm:git:git@github.com:lstephen/ootp-extract.git</developerConnection>
-    <url>https://github.com/lestephen/ootp-extract</url>
+    <url>https://github.com/lstephen/ootp-extract</url>
   </scm>
 
   <properties>
