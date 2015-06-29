@@ -4,7 +4,7 @@
   <parent>
     <groupId>com.github.lstephen</groupId>
     <artifactId>basepom</artifactId>
-    <version>1.7</version>
+    <version>1.9</version>
   </parent>
 
   <artifactId>ootp-extract</artifactId>
@@ -13,12 +13,12 @@
 
   <name>ootp-extract</name>
   <description>Extraction of player information from OOTP HTML player pages</description>
-  <url>https://github.com/lstephen/ootp-extract</url>
+  <url>${github.site}</url>
 
   <scm>
     <connection>scm:git:git@github.com:lstpehen/ootp-extract.git</connection>
     <developerConnection>scm:git:git@github.com:lstephen/ootp-extract.git</developerConnection>
-    <url>https://github.com/lstephen/ootp-extract</url>
+    <url>${github.url}</url>
   </scm>
 
   <properties>
