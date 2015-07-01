@@ -20,19 +20,19 @@ under the License.
 <rss version="0.91">
   <channel>
     <title>ootp-extract - Checkstyle report</title>
-    <link>https://github.com/lstephen/ootp-extract</link>
+    <link>https://lstephen.github.io/ootp-extract</link>
     <description>ootp-extract - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2015</copyright>
     <item>
       <title>File: 20,
-             Errors: 158,
+             Errors: 361,
              Warnings: 0,
              Infos: 0
       </title>
-            <link>https://github.com/lstephen/ootp-extract/checkstyle.html</link>
+            <link>https://lstephen.github.io/ootp-extract/checkstyle.html</link>
       <description>
-        <p>Click <a href="https://github.com/lstephen/ootp-extract/checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="https://lstephen.github.io/ootp-extract/checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp6.rating.OneToTen.java">com/ljs/ootp/extract/html/ootp6/rating/OneToTen.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp6.rating.OneToTen.java">com/ljs/ootp/extract/html/ootp6/rating/OneToTen.java</a>
                 </td>
                 <td>
                   0
@@ -55,12 +55,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  8
+                  16
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp5.rating.ZeroToTen.java">com/ljs/ootp/extract/html/ootp5/rating/ZeroToTen.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp5.rating.ZeroToTen.java">com/ljs/ootp/extract/html/ootp5/rating/ZeroToTen.java</a>
                 </td>
                 <td>
                   0
@@ -69,26 +69,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  6
+                  12
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.Page.java">com/ljs/ootp/extract/html/Page.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.Pages.java">com/ljs/ootp/extract/html/Pages.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.Page.java">com/ljs/ootp/extract/html/Page.java</a>
                 </td>
                 <td>
                   0
@@ -102,35 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.PageLoader.java">com/ljs/ootp/extract/html/loader/PageLoader.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  1
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.Documents.java">com/ljs/ootp/extract/html/Documents.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  5
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp6.rating.OneToTwenty.java">com/ljs/ootp/extract/html/ootp6/rating/OneToTwenty.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.Pages.java">com/ljs/ootp/extract/html/Pages.java</a>
                 </td>
                 <td>
                   0
@@ -144,35 +102,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.Scale.java">com/ljs/ootp/extract/html/rating/Scale.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  3
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.PageLoaderBuilder.java">com/ljs/ootp/extract/html/loader/PageLoaderBuilder.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  8
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.JsoupLoader.java">com/ljs/ootp/extract/html/loader/JsoupLoader.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.PageLoader.java">com/ljs/ootp/extract/html/loader/PageLoader.java</a>
                 </td>
                 <td>
                   0
@@ -186,49 +116,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.OneToOneHundred.java">com/ljs/ootp/extract/html/rating/OneToOneHundred.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  6
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp5.rating.PotentialRating.java">com/ljs/ootp/extract/html/ootp5/rating/PotentialRating.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  20
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.PageLoaders.java">com/ljs/ootp/extract/html/loader/PageLoaders.java</a>
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  0
-                </td>
-                <td>
-                  2
-                </td>
-              </tr>
-                          <tr>
-                <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.Rating.java">com/ljs/ootp/extract/html/rating/Rating.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.Documents.java">com/ljs/ootp/extract/html/Documents.java</a>
                 </td>
                 <td>
                   0
@@ -242,7 +130,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.DiskCachingLoader.java">com/ljs/ootp/extract/html/loader/DiskCachingLoader.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp6.rating.OneToTwenty.java">com/ljs/ootp/extract/html/ootp6/rating/OneToTwenty.java</a>
                 </td>
                 <td>
                   0
@@ -251,12 +139,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  29
+                  12
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp6.rating.TwoToEight.java">com/ljs/ootp/extract/html/ootp6/rating/TwoToEight.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.Scale.java">com/ljs/ootp/extract/html/rating/Scale.java</a>
                 </td>
                 <td>
                   0
@@ -270,7 +158,105 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.UrlLoadingPage.java">com/ljs/ootp/extract/html/UrlLoadingPage.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.PageLoaderBuilder.java">com/ljs/ootp/extract/html/loader/PageLoaderBuilder.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  25
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.JsoupLoader.java">com/ljs/ootp/extract/html/loader/JsoupLoader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.OneToOneHundred.java">com/ljs/ootp/extract/html/rating/OneToOneHundred.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  14
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp5.rating.PotentialRating.java">com/ljs/ootp/extract/html/ootp5/rating/PotentialRating.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.PageLoaders.java">com/ljs/ootp/extract/html/loader/PageLoaders.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.Rating.java">com/ljs/ootp/extract/html/rating/Rating.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  48
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.DiskCachingLoader.java">com/ljs/ootp/extract/html/loader/DiskCachingLoader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  80
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.ootp6.rating.TwoToEight.java">com/ljs/ootp/extract/html/ootp6/rating/TwoToEight.java</a>
                 </td>
                 <td>
                   0
@@ -284,7 +270,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.InMemoryCachedLoader.java">com/ljs/ootp/extract/html/loader/InMemoryCachedLoader.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.UrlLoadingPage.java">com/ljs/ootp/extract/html/UrlLoadingPage.java</a>
                 </td>
                 <td>
                   0
@@ -293,12 +279,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  7
+                  22
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.PageFactory.java">com/ljs/ootp/extract/html/PageFactory.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.loader.InMemoryCachedLoader.java">com/ljs/ootp/extract/html/loader/InMemoryCachedLoader.java</a>
                 </td>
                 <td>
                   0
@@ -307,12 +293,12 @@ under the License.
                   0
                 </td>
                 <td>
-                  12
+                  17
                 </td>
               </tr>
                           <tr>
                 <td>
-                  <a href="https://github.com/lstephen/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.IntegerScale.java">com/ljs/ootp/extract/html/rating/IntegerScale.java</a>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.PageFactory.java">com/ljs/ootp/extract/html/PageFactory.java</a>
                 </td>
                 <td>
                   0
@@ -321,7 +307,21 @@ under the License.
                   0
                 </td>
                 <td>
-                  5
+                  18
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://lstephen.github.io/ootp-extract/checkstyle.html#com.ljs.ootp.extract.html.rating.IntegerScale.java">com/ljs/ootp/extract/html/rating/IntegerScale.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
                 </td>
               </tr>
                       </tbody>
