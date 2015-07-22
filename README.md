@@ -1,5 +1,9 @@
 # ootp-extract
 
+## Deprecated ##
+
+Has been integrated back into [ootp-ai](https://github.com/lstephen/ootp-ai)
+
 ![Maven Central](https://img.shields.io/maven-central/v/com.github.lstephen/ootp-extract.svg?style=plastic)
 [![Build Status](http://jenkins.mylonelybear.org/buildStatus/icon?job=ootp-extract-develop)](http://jenkins.mylonelybear.org/job/ootp-extract-develop)
 
